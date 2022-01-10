@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="user-scalable=no">
+  <title>免费短视频分享大全 - 大中国</title>
+    <meta name="keywords" content="短视频,搞笑视频,视频分享,免费视频,在线视频,预告片" />
+    <meta name="description" content="提供最新最快的视频分享数据" />
+         <link rel="icon" href="/ico.gif?ver=0.996954628264976" type="image/icon" />
+        <link href="/template/m1938pc/static/css/main.css" type="text/css" rel="stylesheet">
+		<script src="/static/js/jquery.js"></script>
+<link href="/static/css/home.css" rel="stylesheet" type="text/css" />
+<script src="/static/js/jquery.lazyload.js"></script>
+<script src="/static/js/jquery.autocomplete.js"></script>
+<script>var maccms={"path":"","mid":"","url":"www.test.cn","wapurl":"wap.test.cn","mob_status":"0"};</script>
+<script src="/static/js/home.js"></script>
+<script></script>
+
+    </head>
+    <body>
+  ﻿      <div class="head container">
+        <a href="/">
+            <img src="/template/m1938pc/static/picture/logo.gif" alt="logo" class="logo" />
+        </a>
+         <form id="search" name="search" method="POST" action="/index.php/vod/search.html" onSubmit="return qrsearch();">
+		<div class="search">
+            <img src="/template/m1938pc/static/picture/search.png" alt="logo" />
+            <input id="wd" type="text" name="wd"  placeholder="整站资源任你搜" class="limit" required />
+            <input type="submit" id="searchbutton"  value="搜索" />  </form>
+            <p>CMS采集碰到问题请参阅 ：<a href="#/CMS.html" style="color:red">免费短视频分享大全 - 大中国采集帮助中心</a></p>
+            <p>欢迎来到免费短视频分享大全 - 大中国网，如若搜索不到片源的话，请点击<a href="/index.php/gbook/index.html">"留言求片"</a>进行反馈</p>
+        </div>
+        <div class="head-right">
+            <p>
+                <a href="/index.php/user/index.html">登录</a>&nbsp;&nbsp;&#124;&nbsp;&nbsp;<a href="/index.php/user/reg.html">注册</a>&nbsp;&nbsp;&#124;&nbsp;&nbsp;<a href="/index.php/gbook/index.html">求片留言</a>
+            </p>
+            <p>QQ群：<span>123456</span></p>
+            <p>今日更新影片：<span>0</span></p>
+            <p>本站共有资源总计：<span>36470</span></p>
+        </div>
+    </div><div class="nav">
+        <ul class="container">
+            <li><a href="/" class="actave">首页</a></li>
+						<li>
+			<a href="/index.php/vod/type/id/43.html">电影</a>
+						<a href="/index.php/vod/type/id/20.html">爱情</a>			<a href="/index.php/vod/type/id/21.html">动作</a>			<a href="/index.php/vod/type/id/22.html">喜剧</a>			<a href="/index.php/vod/type/id/23.html">战争</a>			<a href="/index.php/vod/type/id/24.html">科幻</a>			<a href="/index.php/vod/type/id/25.html">剧情</a>			<a href="/index.php/vod/type/id/26.html">武侠</a>			<a href="/index.php/vod/type/id/27.html">冒险</a>			<a href="/index.php/vod/type/id/28.html">枪战</a>			<a href="/index.php/vod/type/id/29.html">恐怖</a>			<a href="/index.php/vod/type/id/30.html">悬疑</a>			<a href="/index.php/vod/type/id/31.html">犯罪</a>			<a href="/index.php/vod/type/id/32.html">奇幻</a>			<a href="/index.php/vod/type/id/33.html">动画</a>			<a href="/index.php/vod/type/id/34.html">惊悚</a>			<a href="/index.php/vod/type/id/35.html">经典</a>			<a href="/index.php/vod/type/id/36.html">青春</a>			<a href="/index.php/vod/type/id/37.html">文艺</a>			<a href="/index.php/vod/type/id/38.html">微电影</a>			<a href="/index.php/vod/type/id/39.html">古装</a>			</li>
+			        </ul>
+    </div>
+	<div class="bread-crumbs">
+        <p class="limit">
+            当前位置：
+            <a href="/">首页</a>
+            &nbsp;&nbsp;&#155;&nbsp;&nbsp;<a class="actave">今日更新</a>
+        </p>
+    </div><div class="list">
+        <ul class="title background container">
+            <li>影片名称</li>
+            <li>影片地区</li>
+            <li>影片类型</li>
+            <li>更新时间</li>
+        </ul>
+        <div class="list-box">
+            <div class="content">
+                			   <a href="/index.php/vod/detail/id/57828.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">花木兰英语<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>香港</li>
+            <li>奇幻</li>
+            <li class="red" >2021-06-23</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/28887.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">城市猎人 国语<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>大陆</li>
+            <li>动作</li>
+            <li class="red" >2021-05-16</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/58871.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">城市猎人<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>法国</li>
+            <li>动作</li>
+            <li class="red" >2021-05-16</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/58864.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">黑猫II<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>大陆</li>
+            <li>惊悚</li>
+            <li class="red" >2021-04-26</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/58865.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">车祸惊魂2017<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>法国</li>
+            <li>惊悚</li>
+            <li class="red" >2021-04-26</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/58866.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">孟克斯人原声<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>美国</li>
+            <li>惊悚</li>
+            <li class="red" >2021-04-26</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/58867.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">目击者1985<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>美国</li>
+            <li>惊悚</li>
+            <li class="red" >2021-04-26</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/58868.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">杀手蝴蝶梦粤语版<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>香港</li>
+            <li>惊悚</li>
+            <li class="red" >2021-04-26</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/58869.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">水性杨花1928<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>美国</li>
+            <li>惊悚</li>
+            <li class="red" >2021-04-26</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/58870.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">怪房客1976<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>法国</li>
+            <li>惊悚</li>
+            <li class="red" >2021-04-26</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/28597.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">惊魂绣花鞋<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>大陆</li>
+            <li>恐怖</li>
+            <li class="red" >2021-04-26</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/28304.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">死亡客栈<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>大陆</li>
+            <li>动作</li>
+            <li class="red" >2021-04-26</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/46272.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">人性污点<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>美国</li>
+            <li>爱情</li>
+            <li class="red" >2021-04-26</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/17164.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">佛光侠影<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>大陆</li>
+            <li>恐怖</li>
+            <li class="red" >2021-04-26</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/49704.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">让我过过瘾<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>大陆</li>
+            <li>爱情</li>
+            <li class="red" >2021-04-26</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/6907.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">真事改编<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>比利时</li>
+            <li>惊悚</li>
+            <li class="red" >2021-04-26</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/6500.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">黑客反击计划<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>英国</li>
+            <li>惊悚</li>
+            <li class="red" >2021-04-26</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/6325.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">所见非实<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>美国</li>
+            <li>惊悚</li>
+            <li class="red" >2021-04-26</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/58853.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">车祸<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>德国</li>
+            <li>惊悚</li>
+            <li class="red" >2021-04-26</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/58852.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">面包师<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>其它</li>
+            <li>惊悚</li>
+            <li class="red" >2021-04-26</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/58851.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">致命罗密欧普通话<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>美国</li>
+            <li>惊悚</li>
+            <li class="red" >2021-04-26</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/58854.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">吾乃母亲<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>澳大利亚</li>
+            <li>惊悚</li>
+            <li class="red" >2021-04-26</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/58855.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">精武门1972<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>香港</li>
+            <li>惊悚</li>
+            <li class="red" >2021-04-26</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/58857.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">活火熔城1997<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>美国</li>
+            <li>惊悚</li>
+            <li class="red" >2021-04-26</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/58856.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">星月童话粤语<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>大陆</li>
+            <li>惊悚</li>
+            <li class="red" >2021-04-26</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/58858.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">玻璃屋<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>美国</li>
+            <li>惊悚</li>
+            <li class="red" >2021-04-26</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/58860.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">忍无可忍2002<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>美国</li>
+            <li>惊悚</li>
+            <li class="red" >2021-04-26</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/58859.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">至尊三十六计之偷天换日粤语<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>大陆</li>
+            <li>惊悚</li>
+            <li class="red" >2021-04-26</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/58862.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">薄荷<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>韩国</li>
+            <li>惊悚</li>
+            <li class="red" >2021-04-26</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/58861.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">龙在边缘粤语<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>大陆</li>
+            <li>惊悚</li>
+            <li class="red" >2021-04-26</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/58863.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">英伦对决国语<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>美国</li>
+            <li>惊悚</li>
+            <li class="red" >2021-04-26</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/34842.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">惊心迷情<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>美国</li>
+            <li>剧情</li>
+            <li class="red" >2021-04-26</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/34117.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">劫机事件<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>印度</li>
+            <li>剧情</li>
+            <li class="red" >2021-04-26</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/32288.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">与敌共眠<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>美国</li>
+            <li>剧情</li>
+            <li class="red" >2021-04-26</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/30344.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">第一茧<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>香港</li>
+            <li>剧情</li>
+            <li class="red" >2021-04-26</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/29452.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">时钟<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>美国</li>
+            <li>动作</li>
+            <li class="red" >2021-04-26</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/17383.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">金牌间谍<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>欧美</li>
+            <li>恐怖</li>
+            <li class="red" >2021-04-26</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/6959.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">童使<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>日本</li>
+            <li>惊悚</li>
+            <li class="red" >2021-04-26</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/58841.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">我所看到的都是你<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>美国</li>
+            <li>惊悚</li>
+            <li class="red" >2021-04-26</li>
+        </ul>
+    </a>			   <a href="/index.php/vod/detail/id/58840.html" class="row">
+        <ul class="container">
+            <li style="text-align:left">野营历险普通话<img src="/template/m1938pc/static/picture/new.gif"></li>
+            <li>美国</li>
+            <li>惊悚</li>
+            <li class="red" >2021-04-26</li>
+        </ul>
+    </a>
+                <div class="page">
+
+        <a href="/index.php/index/index/page/1.html">首页</a>
+		 <a  href="/index.php/index/index/page/1.html" title="上一页">上一页</a>
+				<a  href="javascript:;"  class="actave" >1</a>		
+		<a href="/index.php/index/index/page/2.html">2</a>
+		        		
+		<a href="/index.php/index/index/page/3.html">3</a>
+		        		
+		<a href="/index.php/index/index/page/4.html">4</a>
+		        		
+		<a href="/index.php/index/index/page/5.html">5</a>
+		                <a  href="/index.php/index/index/page/2.html" title="下一页">下一页</a>
+        <a  href="/index.php/index/index/page/912.html" title="尾页">尾页</a>
+    </div>
+            </div>
+        </div>
+    </div>
+	<div class="bottom">
+        <p>Copyright &#169 2018 - 2020 免费短视频分享大全 - 大中国网 www.test.cn</p>
+        <p>本站资源来自互联网收集,仅供用于学习和交流,请遵循相关法律法规,本站一切资源不代表本站立场,如有侵权、后门、不妥请联系本站QQ:123456删除</p>
+        <p>
+           统计代码            | <a>网站地图</a> | <a>关于我们</a> | <a>合作伙伴</a> | <a>广告服务</a>
+        </p>
+    </div>
+    </body>
+</html>
